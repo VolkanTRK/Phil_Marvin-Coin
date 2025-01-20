@@ -1,0 +1,12 @@
+{
+    "name": "Phil_Marvin Coin",
+    "symbol": "PHMA",
+    "description": "Phil Marvin 44",
+    "image": "https://raw.githubusercontent.com/VolkanTRK/Phil_Marvin-Coin/refs/heads/main/homer_simpson_vector_by_billybobfm-d83z9va-2013566591.png",
+    "attributes": [
+      {
+        "trait_type": "Token",
+        "value": "Developer Portal"
+      }
+    ]
+  }
